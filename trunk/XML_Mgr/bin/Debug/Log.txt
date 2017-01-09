@@ -3,3 +3,4 @@
 2014/2/2 21:26:25 Info : Create 6#Data(2794G) # Used 2708G # Total 2794G
 2014/2/2 21:29:22 Info : Update 6#Data(2794G) # Used 2708G # Total 2794G
 2014/2/2 21:29:32 Info : Create 13#Data(2794G) # Used 2708G # Total 2794G
+2017/1/9 20:18:57 Info : Create GL_XML
